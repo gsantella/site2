@@ -23,14 +23,14 @@ body {
 }
 
 .box .inner:first-child {
-	background-color: #111c6e;
+	background-color: #b939f3;
 	color: #f8f7f7;
 	transform-origin: right;
 	transform: perspective(100px) rotateY(-15deg);
 }
 
 .box .inner:last-child {
-	background-color: #dd36b1;
+	background-color: #841f69;
 	color: antiquewhite;
 	transform-origin: left;
 	transform: perspective(100px) rotateY(15deg);
