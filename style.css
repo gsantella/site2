@@ -30,7 +30,7 @@ body {
 }
 
 .box .inner:last-child {
-	background-color: #3658dd;
+	background-color: #dd36b1;
 	color: antiquewhite;
 	transform-origin: left;
 	transform: perspective(100px) rotateY(15deg);
